@@ -1,3 +1,3 @@
-# first_dapp
+# first_daap
 A lottery decentralized application.
-This dapp run in remix ide with metamask account.
+This daap run in remix ide with metamask account.
